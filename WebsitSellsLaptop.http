@@ -1,0 +1,6 @@
+@WebsitSellsLaptop_HostAddress = http://localhost:5075
+
+GET {{WebsitSellsLaptop_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
